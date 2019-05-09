@@ -6,6 +6,13 @@ class Api::V1::HabitsController < ApplicationController
         render json: @habits
     end 
 
+    def new 
+      @habit = Habit.new
+    end 
+
+    def create
+    end
+
 
     private 
 
