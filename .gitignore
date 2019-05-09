@@ -4,6 +4,8 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+#### https://calm-anchorage-88997.herokuapp.com/api/v1/habits
+
 # Ignore bundler config.
 /.bundle
 
