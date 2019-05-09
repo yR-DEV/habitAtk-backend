@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 ### DEPLOYED API ENDPOINT
-### https://calm-anchorage-88997.herokuapp.com/api/v1/habits
+
 
 * Ruby version
 
